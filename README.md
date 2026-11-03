@@ -69,7 +69,7 @@ sweet-crumbs/
 1. Clone the repository:
 
    ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_LINK>
+   git clone <https://github.com/Mansi-Patil13/Sweet-Crumbs---Bakery-Landing-Page-.git>
    ```
 
 2. Open the `landing-page` folder.
